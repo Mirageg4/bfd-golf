@@ -14,8 +14,9 @@
 <hr>
 <p>John Manouse</p>
 <p>Live Link: <a href="https://mirageg4.github.io/bfd-golf/"
->TinDog Live Link</a></p>
-<p>Github: <a href="https://github.com/Mirageg4/bfd-golf">TinDog Repo</a></p>
+>BFD Golf Live Link</a></p>
+<p>Github: <a href="https://github.com/Mirageg4/bfd-golf"
+>BFD Golf Repo</a></p>
 
 <hr>
 <img src ="images/bfd-golf-ss.png"/>
