@@ -163,6 +163,19 @@ em {
     font-size: 2rem;
 }
 
+span{
+    color: #f7ffe6;
+    text-align: right;
+}
+
+.or {
+    color: #f7ffe6; 
+}
+
+#btn-signup {
+    background-color: #ac0c26; 
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
