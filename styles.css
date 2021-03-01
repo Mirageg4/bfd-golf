@@ -163,18 +163,18 @@ em {
     font-size: 2rem;
 }
 
-span{
-    color: #f7ffe6;
-    text-align: right;
-}
-
-.or {
-    color: #f7ffe6; 
-}
 
 #btn-signup {
     background-color: #ac0c26; 
 }
+
+#logreg-forms {
+    width:412px;
+    margin:10, 10, 10, 10 auto;
+    background-color:#f7ffe6;
+    border-radius: 25px;
+    
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 
 @media (max-width: 1028px) {
     #title {
